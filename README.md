@@ -1,7 +1,7 @@
 # Noisy_MER
+This repository contains the code for the paper 
 ```
-This repository contains the code for the paper Micro-expression recognition with noisy labels
-Tuomas Varanka, Wei Peng, Guoying Zhao, IS&T Electronic
+Micro-expression recognition with noisy labels, Tuomas Varanka, Wei Peng, Guoying Zhao, IS&T Electronic
 Imaging: Human Vision and Electronic Imaging 2021 (157-1-157-8)
 ```
 link: https://doi.org/10.2352/ISSN.2470-1173.2021.11.HVEI-157
