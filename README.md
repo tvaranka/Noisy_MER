@@ -9,7 +9,7 @@ link: https://doi.org/10.2352/ISSN.2470-1173.2021.11.HVEI-157
 ## Running the code
 1. Setting up the datasets. Go to the datasets.py file and set the paths to the directories of the datasets and provide the excel file path containing the meta data.
 2. pip install -r requirements.txt
-3. Run the main.py file, from which you can further select parameters.
+3. Run one of the main*.py files. For simplicity the four different files include the different methods with main.py including the baseline and remaining main*.py consisting of the methods proposed in the paper.
 
 
 ![Mean of optical flows.](of_mean.PNG)
